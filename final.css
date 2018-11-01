@@ -1,0 +1,91 @@
+<style>
+
+html{font-color: #8087E8; width:100%;
+    height:100%;
+    border-radius:250px;
+    font-size:100%;
+
+
+	}
+
+
+.center {
+    margin: auto;
+    width: 75%;
+    padding: 10px;
+}
+
+ul.topnav {font-family: 'Cookie', cursive;
+	font-size: 25px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgZN1vvOJltl4ZzL4ikFecWLoK6WpMLIpDt84SV_O-c7D9FCe77Q");
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: block;
+    color: lightblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {
+    background-color: #8087E8;
+}
+
+ul.topnav li.right	{float: right;}
+
+ul.topnav li a.active {
+    background-color: #5660F9;}
+
+@media screen and (max-width: 600px){
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+}
+
+
+
+body	{background-color: #3E3A39;
+		margin: 0;
+		background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rN0W64K4ipau8gxv/gray-background-soft-fifteen-shades-of-grey-smooth-background-with-the-addition-of-a-bit-of-noise_h4hpx5qtl_thumbnail-full01.png");}
+
+h1	{font-family: 'Cookie', cursive;
+    font-size: 55px
+	; text-align: center;
+	color: #8087E8;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
