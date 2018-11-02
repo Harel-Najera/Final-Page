@@ -9,11 +9,35 @@ html{font-color: #8087E8; width:100%;
 	}
 
 
+.starterp	{color: lightblue;
+			font-size: 20px;
+			text-align: center;}
+
+article	{font-size: 20px;
+		color: #AE8EF0;
+
+
+
+		}
+
+.listing	{text-align: center;}
+
+details	{text-align: left;
+		color: #AE8EF0;
+		font-family: 'Signika', sans-serif;
+		}
+
 .center {
     margin: auto;
     width: 75%;
     padding: 10px;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: 40px;
+    width: 20%;}
 
 ul.topnav {font-family: 'Cookie', cursive;
 	font-size: 25px;
@@ -60,7 +84,11 @@ h1	{font-family: 'Cookie', cursive;
 	color: #8087E8;
 	}
 
-
+.hyacinth	{font-family: 'Cookie', cursive;
+    font-size: 55px
+	; text-align: center;
+	color: #AE8EF0;
+	}
 
 
 
