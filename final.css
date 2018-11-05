@@ -20,7 +20,10 @@ article	{font-size: 20px;
 
 		}
 
-.listing	{text-align: center;}
+.listing	{text-align: center;
+			list-style-type:none;
+			font-size: 25px;
+			color: black;}
 
 details	{text-align: left;
 		color: #AE8EF0;
@@ -90,13 +93,35 @@ h1	{font-family: 'Cookie', cursive;
 	color: #AE8EF0;
 	}
 
+.dandelion	{font-family: 'Cookie', cursive;
+    font-size: 55px
+	; text-align: center;
+	color: yellow;
+	}
+
+.chrysanthemum	{font-family: 'Cookie', cursive;
+    font-size: 55px
+	; text-align: center;
+	color: red;}
+
+
+.anemone	{font-family: 'Cookie', cursive;
+    font-size: 55px
+	; text-align: center;
+	color: white;}
+
+.dandi {color: #F6EF12;}
+
+
+.chrys	{color: #EF4848;}
+
+.ane	{color: lightgrey;}
 
 
 
 
-
-
-
+a {color: white;
+	padding: 25px;}
 
 
 
