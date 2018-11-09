@@ -19,6 +19,7 @@ article	{font-size: 20px;
 
 		}
 
+
 .listing	{text-align: center;
 			list-style-type:none;
 			font-size: 25px;
@@ -137,7 +138,7 @@ h1	{font-family: 'Oxygen', sans-serif;
 .dandelion	{font-family: 'Oxygen', sans-serif;
     font-size: 55px
 	; text-align: center;
-	color: #e08326;
+	color: #FF6213;
 	}
 
 .chrysanthemum	{font-family: 'Oxygen', sans-serif;
@@ -153,7 +154,7 @@ h1	{font-family: 'Oxygen', sans-serif;
 
 .purps	{color: lightblue;}
 
-.dandi {color: #e08326;}
+.dandi {color: #FF6213;}
 
 
 .chrys	{color: #EF4848;}
